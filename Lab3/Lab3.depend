@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1429553002 source:/Users/gibari/Desktop/School/DataStructures/Lab3/main.cpp
+	<iostream>
+	"Link.h"
+
+1429850389 /Users/gibari/Desktop/School/DataStructures/Lab3/include/Link.h
+
+1429737488 source:/Users/gibari/Desktop/School/DataStructures/Lab3/src/DoubleEnded.cpp
+	"Link.h"
+	"DoubleEnded.h"
+
+1429907056 /Users/gibari/Desktop/School/DataStructures/Lab3/include/DoubleEnded.h
+	"link.h"
+
+1429737530 source:/Users/gibari/Desktop/School/DataStructures/Lab3/src/LinkedList.cpp
+	"Link.h"
+	"LinkedList.h"
+
+1429737548 /Users/gibari/Desktop/School/DataStructures/Lab3/include/LinkedList.h
+	"Link.h"
+

@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1431829302 source:/Users/gibari/Desktop/School/DataStructures/Lab5/src/Tree.cpp
+	"Tree.h"
+	<iostream>
+
+1431828583 /Users/gibari/Desktop/School/DataStructures/Lab5/include/Tree.h
+	"Node.h"
+
+1431374370 /Users/gibari/Desktop/School/DataStructures/Lab5/include/Node.h
+
+1431913049 source:/Users/gibari/Desktop/School/DataStructures/Lab5/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"intTree.h"
+	"charTree.h"
+	"StringTree.h"
+	"Tree.h"
+
+1431829571 source:/Users/gibari/Desktop/School/DataStructures/Lab5/src/StringTree.cpp
+	"StringTree.h"
+	"StringNode.h"
+	<iostream>
+	<string>
+
+1431829384 /Users/gibari/Desktop/School/DataStructures/Lab5/include/StringTree.h
+	<string>
+	"StringNode.h"
+
+1431374908 /Users/gibari/Desktop/School/DataStructures/Lab5/include/StringNode.h
+	<string>
+
+1431915333 source:/Users/gibari/Desktop/School/DataStructures/Lab5/src/intTree.cpp
+	"intTree.h"
+	<iostream>
+	<string>
+
+1431823397 /Users/gibari/Desktop/School/DataStructures/Lab5/include/intTree.h
+	<string>
+	"intNode.h"
+
+1431913723 /Users/gibari/Desktop/School/DataStructures/Lab5/include/intNode.h
+
+1431839467 source:/Users/gibari/Desktop/School/DataStructures/Lab5/src/charTree.cpp
+	"charTree.h"
+	<iostream>
+
+1431831424 /Users/gibari/Desktop/School/DataStructures/Lab5/include/charTree.h
+	"charNode.h"
+
+1431831424 /Users/gibari/Desktop/School/DataStructures/Lab5/include/charNode.h
+
+1431901362 source:/Users/gibari/Desktop/School/DataStructures/Lab5/src/ParsePost.cpp
+	"ParsePost.h"
+	<string>
+
+1431840488 /Users/gibari/Desktop/School/DataStructures/Lab5/include/ParsePost.h
+	<iostream>
+	<string>
+	"StackX.h"
+
+1431906066 /Users/gibari/Desktop/School/DataStructures/Lab5/include/StackX.h
+	<iostream>
+	<string>
+
+1431839467 source:/Users/gibari/Desktop/School/DataStructures/Lab5/src/StackX.cpp
+	"StackX.h"
+

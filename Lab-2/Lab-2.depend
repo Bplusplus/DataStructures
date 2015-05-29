@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1429134418 source:/Users/gibari/Desktop/School/DataStructures/Lab-2/main.cpp
+	<iostream>
+	<ctime>
+	"Deque.h"
+	"Stack.h"
+	"PQueue.h"
+
+1429131204 /Users/gibari/Desktop/School/DataStructures/Lab-2/include/Deque.h
+	<iostream>
+	<string>
+	<cstring>
+
+1428793739 /Users/gibari/Desktop/School/DataStructures/Lab-2/include/PQueue.h
+	<iostream>
+	<string>
+	<cstring>
+
+1428706828 /Users/gibari/Desktop/School/DataStructures/Lab-2/include/ Stack.h
+
+1428538593 source:/Users/gibari/Desktop/School/DataStructures/Lab-2/src/ Stack.cpp
+	" Stack.h"
+
+1429132041 source:/Users/gibari/Desktop/School/DataStructures/Lab-2/src/Deque.cpp
+	"Deque.h"
+	<sstream>
+
+1429135476 source:/Users/gibari/Desktop/School/DataStructures/Lab-2/src/PQueue.cpp
+	"PQueue.h"
+
+1428793227 /Users/gibari/Desktop/School/DataStructures/Lab-2/include/Stack.h
+	<iostream>
+
+1428732105 source:/Users/gibari/Desktop/School/DataStructures/Lab-2/src/Stack.cpp
+	"Stack.h"
+

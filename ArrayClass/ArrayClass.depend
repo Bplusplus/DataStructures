@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1428439944 source:/Users/gibari/Desktop/School/DataStructures/ArrayClass/array.cpp
+	<cstring>
+	"ArrayClass.h"
+
+1428437858 /Users/gibari/Desktop/School/DataStructures/ArrayClass/ArrayClass.h
+	<iostream>
+	<string>
+	<exception>
+
+1428439168 source:/Users/gibari/Desktop/School/DataStructures/ArrayClass/main.cpp
+	"ArrayClass.h"
+	<ctime>
+

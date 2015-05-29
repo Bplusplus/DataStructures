@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1430781818 source:/Users/gibari/Desktop/School/DataStructures/Lab4/main.cpp
+	<iostream>
+	"Powers.h"
+
+1430783480 source:/Users/gibari/Desktop/School/DataStructures/Lab4/src/Powers.cpp
+	"Powers.h"
+	<iostream>
+
+1430783360 /Users/gibari/Desktop/School/DataStructures/Lab4/include/Powers.h
+

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1430462521 source:/Users/gibari/Desktop/School/DataStructures/DoublyLinked/main.cpp
+	<iostream>
+	"DoublyList.h"
+	"Student.h"
+	"StudentList.h"
+	"Stack.h"
+	"Queue.h"
+
+1430460375 /Users/gibari/Desktop/School/DataStructures/DoublyLinked/include/DoublyList.h
+	"Link.h"
+
+1429928013 /Users/gibari/Desktop/School/DataStructures/DoublyLinked/Link.h
+
+1430176649 /Users/gibari/Desktop/School/DataStructures/DoublyLinked/include/Student.h
+	<string>
+
+1430462520 source:/Users/gibari/Desktop/School/DataStructures/DoublyLinked/src/DoublyList.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	"DoublyList.h"
+	"Link.h"
+
+1430425795 source:/Users/gibari/Desktop/School/DataStructures/DoublyLinked/src/StudentList.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	"StudentList.h"
+
+1430425348 /Users/gibari/Desktop/School/DataStructures/DoublyLinked/include/StudentList.h
+	"Student.h"
+	"StudentLink.h"
+
+1430421864 /Users/gibari/Desktop/School/DataStructures/DoublyLinked/include/StudentLink.h
+	"Student.h"
+
+1430429384 /Users/gibari/Desktop/School/DataStructures/DoublyLinked/include/Stack.h
+	"StudentList.h"
+
+1430429849 /Users/gibari/Desktop/School/DataStructures/DoublyLinked/include/Queue.h
+

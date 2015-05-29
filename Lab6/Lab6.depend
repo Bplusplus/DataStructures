@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1432769269 source:/Users/gibari/Desktop/School/DataStructures/Lab6/main.cpp
+	<iostream>
+	<ctime>
+	"Heap.h"
+	"PrioirityQ.h"
+	"HashTable.h"
+	"HashTableLL.h"
+
+1431993284 source:/Users/gibari/Desktop/School/DataStructures/Lab6/src/Heap.cpp
+	<iostream>
+	"Heap.h"
+
+1431993276 /Users/gibari/Desktop/School/DataStructures/Lab6/include/Heap.h
+
+1431993474 /Users/gibari/Desktop/School/DataStructures/Lab6/include/PrioirityQ.h
+	"Heap.h"
+
+1432594099 source:/Users/gibari/Desktop/School/DataStructures/Lab6/src/HashTable.cpp
+	"HashTable.h"
+
+1432593674 /Users/gibari/Desktop/School/DataStructures/Lab6/include/HashTable.h
+	<iostream>
+	<string>
+	<stdio.h>
+	"Node.h"
+
+1432592997 /Users/gibari/Desktop/School/DataStructures/Lab6/include/Node.h
+	<string>
+
+1432601938 source:/Users/gibari/Desktop/School/DataStructures/Lab6/src/HashTableLL.cpp
+	"HashTableLL.h"
+
+1432600698 /Users/gibari/Desktop/School/DataStructures/Lab6/include/HashTableLL.h
+	<iostream>
+	<string>
+	<stdio.h>
+	"Node.h"
+
